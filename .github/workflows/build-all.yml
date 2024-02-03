@@ -31,7 +31,7 @@ jobs:
       clipboard: '[
         "default",
         "fun",
-        "mac",
+        # "mac",
         "win"
       ]'
       layers: '[
@@ -45,6 +45,6 @@ jobs:
       ]'
       kmonad_os: '[
         "default",
-        "mac",
+        # "mac",
         "win"
       ]'
